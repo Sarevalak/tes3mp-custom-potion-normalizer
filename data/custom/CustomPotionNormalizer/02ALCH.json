@@ -1,0 +1,92 @@
+[
+  {
+    "type": "ALCH",
+    "refId": "Potion_Local_Brew_01",
+    "scripted": false,
+    "weight": 5,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_nord_mead",
+    "scripted": false,
+    "weight": 1,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 30,
+        "magnitude_max": 30
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 30,
+        "magnitude_max": 30
+      }
+    ]
+  }
+]

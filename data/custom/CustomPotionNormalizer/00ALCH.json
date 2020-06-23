@@ -1,0 +1,6628 @@
+[
+  {
+    "type": "ALCH",
+    "refId": "potion_skooma_01",
+    "scripted": false,
+    "weight": 1,
+    "value": 500,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "Potion_Cyro_Whiskey_01",
+    "scripted": false,
+    "weight": 1,
+    "value": 100,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_comberry_wine_01",
+    "scripted": false,
+    "weight": 3,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_cyro_brandy_01",
+    "scripted": false,
+    "weight": 1,
+    "value": 100,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_comberry_brandy_01",
+    "scripted": false,
+    "weight": 5,
+    "value": 30,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "Potion_Local_Brew_01",
+    "scripted": false,
+    "weight": 5,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_local_liquor_01",
+    "scripted": false,
+    "weight": 3,
+    "value": 30,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 50,
+        "magnitude_max": 50
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 50,
+        "magnitude_max": 50
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_t_bug_musk_01",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 100,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 40,
+        "magnitude_max": 40
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_burden_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 7,
+        "effect_label": "Burden",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_shield_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 4,
+        "effect_label": "Fire Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_endurance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_personality_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_speed_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_strength_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_health_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 80,
+        "effect_label": "Fortify Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_invisibility_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 39,
+        "effect_label": "Invisibility",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_light_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 41,
+        "effect_label": "Light",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_lightning shield_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 5,
+        "effect_label": "Lightning Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_night-eye_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 43,
+        "effect_label": "Night Eye",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_paralyze_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 45,
+        "effect_label": "Paralyze",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_reflection_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 68,
+        "effect_label": "Reflect",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire resistance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 90,
+        "effect_label": "Resist Fire",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_magicka_resistance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 93,
+        "effect_label": "Resist Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_poison_resistance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 97,
+        "effect_label": "Resist Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_shock_resistance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 92,
+        "effect_label": "Resist Shock",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_agility_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_endurance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_intelligence_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_luck_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_personality_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_speed_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_strength_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_willpower_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_fatigue_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 77,
+        "effect_label": "Restore Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_silence_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 46,
+        "effect_label": "Silence",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_spell_absorption_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 67,
+        "effect_label": "Spell Absorption",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_levitation_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 10,
+        "effect_label": "Levitate",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_fatigue_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 82,
+        "effect_label": "Fortify Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_burden_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 7,
+        "effect_label": "Burden",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_burden_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 7,
+        "effect_label": "Burden",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_burden_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 7,
+        "effect_label": "Burden",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_burden_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 7,
+        "effect_label": "Burden",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_agility_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 11,
+        "effect_label": "SlowFall",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_endurance_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 11,
+        "effect_label": "SlowFall",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_intelligence_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 1,
+        "effect_label": "Swift Swim",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_luck_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 69,
+        "effect_label": "Cure Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_magicka_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 19,
+        "effect_label": "Drain Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 72,
+        "effect_label": "Cure Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_personality_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 1,
+        "effect_label": "Swift Swim",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_speed_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 72,
+        "effect_label": "Cure Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain_strength_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 69,
+        "effect_label": "Cure Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_drain willpower_q",
+    "scripted": false,
+    "weight": 1,
+    "value": 10,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 40,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      },
+      {
+        "effect": 69,
+        "effect_label": "Cure Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_feather_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 8,
+        "effect_label": "Feather",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_feather_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 8,
+        "effect_label": "Feather",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_feather_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 8,
+        "effect_label": "Feather",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_feather_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 8,
+        "effect_label": "Feather",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_shield_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 4,
+        "effect_label": "Fire Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_shield_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 4,
+        "effect_label": "Fire Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_shield_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 4,
+        "effect_label": "Fire Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_shield_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 4,
+        "effect_label": "Fire Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_agility_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_agility_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_agility_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_agility_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_endurance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_endurance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_endurance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_endurance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_fatigue_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 82,
+        "effect_label": "Fortify Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_fatigue_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 82,
+        "effect_label": "Fortify Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_fatigue_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 82,
+        "effect_label": "Fortify Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_fatigue_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 82,
+        "effect_label": "Fortify Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_health_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 80,
+        "effect_label": "Fortify Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_health_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 80,
+        "effect_label": "Fortify Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_health_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 80,
+        "effect_label": "Fortify Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_intelligence_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_intelligence_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_intelligence_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_intelligence_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_luck_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_luck_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_luck_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_luck_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_magicka_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 81,
+        "effect_label": "Fortify Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_magicka_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 81,
+        "effect_label": "Fortify Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_magicka_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 81,
+        "effect_label": "Fortify Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_magicka_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 81,
+        "effect_label": "Fortify Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_personality_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_personality_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_personality_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_personality_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_speed_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_speed_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_speed_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_speed_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_strength_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_strength_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_strength_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_strength_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_willpower_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_willpower_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_willpower_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_willpower_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_shield_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 6,
+        "effect_label": "Frost Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_shield_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 6,
+        "effect_label": "Frost Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_shield_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 6,
+        "effect_label": "Frost Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_shield_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 6,
+        "effect_label": "Frost Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_invisibility_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 39,
+        "effect_label": "Invisibility",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_invisibility_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 39,
+        "effect_label": "Invisibility",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_invisibility_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 39,
+        "effect_label": "Invisibility",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_invisibility_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 39,
+        "effect_label": "Invisibility",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_jump_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 9,
+        "effect_label": "Jump",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_jump_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 9,
+        "effect_label": "Jump",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_jump_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 9,
+        "effect_label": "Jump",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_jump_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 9,
+        "effect_label": "Jump",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_jump_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 9,
+        "effect_label": "Jump",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_levitation_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 10,
+        "effect_label": "Levitate",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_levitation_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 10,
+        "effect_label": "Levitate",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "P_Levitation_Q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 10,
+        "effect_label": "Levitate",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_levitation_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 10,
+        "effect_label": "Levitate",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_light_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 41,
+        "effect_label": "Light",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_light_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 41,
+        "effect_label": "Light",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_light_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 41,
+        "effect_label": "Light",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_light_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 41,
+        "effect_label": "Light",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_lightning shield_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 5,
+        "effect_label": "Lightning Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_lightning shield_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 5,
+        "effect_label": "Lightning Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_lightning shield_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 5,
+        "effect_label": "Lightning Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_lightning shield_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 5,
+        "effect_label": "Lightning Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_night-eye_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 43,
+        "effect_label": "Night Eye",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_night-eye_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 43,
+        "effect_label": "Night Eye",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_night-eye_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 43,
+        "effect_label": "Night Eye",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_night-eye_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 43,
+        "effect_label": "Night Eye",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_paralyze_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 45,
+        "effect_label": "Paralyze",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_paralyze_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 45,
+        "effect_label": "Paralyze",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_paralyze_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 45,
+        "effect_label": "Paralyze",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_paralyze_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 45,
+        "effect_label": "Paralyze",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_reflection_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 68,
+        "effect_label": "Reflect",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_reflection_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 68,
+        "effect_label": "Reflect",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_reflection_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 68,
+        "effect_label": "Reflect",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_reflection_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 68,
+        "effect_label": "Reflect",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_disease_resistance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 94,
+        "effect_label": "Resist Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_disease_resistance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 94,
+        "effect_label": "Resist Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_disease_resistance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 94,
+        "effect_label": "Resist Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_disease_resistance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 94,
+        "effect_label": "Resist Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_disease_resistance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 94,
+        "effect_label": "Resist Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_resistance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 90,
+        "effect_label": "Resist Fire",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_resistance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 90,
+        "effect_label": "Resist Fire",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_resistance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 90,
+        "effect_label": "Resist Fire",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fire_resistance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 90,
+        "effect_label": "Resist Fire",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_resistance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 91,
+        "effect_label": "Resist Frost",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_resistance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 91,
+        "effect_label": "Resist Frost",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_resistance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 91,
+        "effect_label": "Resist Frost",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_resistance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 91,
+        "effect_label": "Resist Frost",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_magicka_resistance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 93,
+        "effect_label": "Resist Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_magicka_resistance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 93,
+        "effect_label": "Resist Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_magicka_resistance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 93,
+        "effect_label": "Resist Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_magicka_resistance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 93,
+        "effect_label": "Resist Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_poison_resistance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 97,
+        "effect_label": "Resist Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_poison_resistance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 97,
+        "effect_label": "Resist Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_poison_resistance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 97,
+        "effect_label": "Resist Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_poison_resistance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 97,
+        "effect_label": "Resist Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_shock_resistance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 92,
+        "effect_label": "Resist Shock",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_shock_resistance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 92,
+        "effect_label": "Resist Shock",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_shock_resistance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 92,
+        "effect_label": "Resist Shock",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_shock_resistance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 92,
+        "effect_label": "Resist Shock",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_agility_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_agility_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_agility_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_agility_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_endurance_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_endurance_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_endurance_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_endurance_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 5,
+        "attribute_label": "Endurance",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_fatigue_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 77,
+        "effect_label": "Restore Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_fatigue_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 77,
+        "effect_label": "Restore Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_fatigue_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 77,
+        "effect_label": "Restore Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 40,
+        "magnitude_max": 40
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_fatigue_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 77,
+        "effect_label": "Restore Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 80,
+        "magnitude_max": 80
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_health_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 2,
+        "magnitude_max": 2
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_intelligence_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_intelligence_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_intelligence_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_intelligence_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_luck_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_luck_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_luck_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_luck_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_personality_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_personality_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_personality_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_personality_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 6,
+        "attribute_label": "Personality",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_speed_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_speed_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_speed_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_speed_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 4,
+        "attribute_label": "Speed",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_magicka_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 76,
+        "effect_label": "Restore Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 2,
+        "magnitude_max": 2
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_magicka_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 76,
+        "effect_label": "Restore Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_magicka_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 76,
+        "effect_label": "Restore Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_magicka_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 76,
+        "effect_label": "Restore Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 40,
+        "magnitude_max": 40
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_strength_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_strength_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_strength_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_strength_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_willpower_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_willpower_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_willpower_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_willpower_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 74,
+        "effect_label": "Restore Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 0,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_chameleon_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 40,
+        "effect_label": "Chameleon",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_chameleon_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 40,
+        "effect_label": "Chameleon",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_chameleon_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 40,
+        "effect_label": "Chameleon",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_chameleon_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 40,
+        "effect_label": "Chameleon",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_chameleon_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 40,
+        "effect_label": "Chameleon",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_silence_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 46,
+        "effect_label": "Silence",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_silence_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 46,
+        "effect_label": "Silence",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_silence_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 46,
+        "effect_label": "Silence",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_silence_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 46,
+        "effect_label": "Silence",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_spell_absorption_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 67,
+        "effect_label": "Spell Absorption",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_spell_absorption_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 67,
+        "effect_label": "Spell Absorption",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_spell_absorption_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 67,
+        "effect_label": "Spell Absorption",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_spell_absorption_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 67,
+        "effect_label": "Spell Absorption",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_swift_swim_c",
+    "scripted": false,
+    "weight": 1,
+    "value": 15,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 1,
+        "effect_label": "Swift Swim",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_swift_swim_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 1,
+        "effect_label": "Swift Swim",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_swift_swim_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 1,
+        "effect_label": "Swift Swim",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 45,
+        "magnitude_min": 15,
+        "magnitude_max": 15
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_swift_swim_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 1,
+        "effect_label": "Swift Swim",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_health_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_health_q",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 80,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_health_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 40,
+        "magnitude_max": 40
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "potion_ancient_brandy",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 1500,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 22,
+        "effect_label": "Damage Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 22,
+        "effect_label": "Damage Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_almsivi_intervention_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 63,
+        "effect_label": "Almsivi Intervention",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_detect_creatures_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 64,
+        "effect_label": "Detect Animal",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_cure_common_s",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 20,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 69,
+        "effect_label": "Cure Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_cure_blight_s",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 30,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 70,
+        "effect_label": "Cure Blight Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_cure_paralyzation_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 20,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 73,
+        "effect_label": "Cure Paralyzation",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_cure_poison_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 20,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 72,
+        "effect_label": "Cure Poison",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_detect_key_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 66,
+        "effect_label": "Detect Key",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_dispel_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 57,
+        "effect_label": "Dispel",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_agility_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_intelligence_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 1,
+        "attribute_label": "Intelligence",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_luck_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 7,
+        "attribute_label": "Luck",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_willpower_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 2,
+        "attribute_label": "Willpower",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_health_b",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 5,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 80,
+        "effect_label": "Fortify Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 8,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_magicka_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 81,
+        "effect_label": "Fortify Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_mark_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 60,
+        "effect_label": "Mark",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_resistance_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 91,
+        "effect_label": "Resist Frost",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_slowfall_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 11,
+        "effect_label": "SlowFall",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_telekinesis_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 59,
+        "effect_label": "Telekinesis",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_water_breathing_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 0,
+        "effect_label": "Water Breathing",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_water_walking_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 2,
+        "effect_label": "Water Walking",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_vintagecomberrybrandy1",
+    "scripted": false,
+    "weight": 1,
+    "value": 500,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 360,
+        "magnitude_min": 30,
+        "magnitude_max": 30
+      },
+      {
+        "effect": 17,
+        "effect_label": "Drain Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 3,
+        "attribute_label": "Agility",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 360,
+        "magnitude_min": 30,
+        "magnitude_max": 30
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_frost_shield_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 6,
+        "effect_label": "Frost Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_magicka_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 76,
+        "effect_label": "Restore Magicka",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_fortify_attack_e",
+    "scripted": false,
+    "weight": 0.25,
+    "value": 175,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 117,
+        "effect_label": "Fortify Attack",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_cure_common_unique",
+    "scripted": false,
+    "weight": 1,
+    "value": 100,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 69,
+        "effect_label": "Cure Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_restore_health_s",
+    "scripted": false,
+    "weight": 0.75,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 5,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_detect_enchantment_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 65,
+        "effect_label": "Detect Enchantment",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 15,
+        "magnitude_min": 10,
+        "magnitude_max": 10
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_quarrablood_UNIQUE",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 5000,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 59,
+        "effect_label": "Telekinesis",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 30,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      },
+      {
+        "effect": 40,
+        "effect_label": "Chameleon",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 10,
+        "magnitude_min": 100,
+        "magnitude_max": 100
+      },
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 20,
+        "magnitude_min": 50,
+        "magnitude_max": 50
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_sinyaramen_UNIQUE",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 1502,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 69,
+        "effect_label": "Cure Common Disease",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      },
+      {
+        "effect": 43,
+        "effect_label": "Night Eye",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 10,
+        "magnitude_min": 50,
+        "magnitude_max": 50
+      },
+      {
+        "effect": 79,
+        "effect_label": "Fortify Attribute",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": 0,
+        "attribute_label": "Strength",
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 20,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_heroism_s",
+    "scripted": false,
+    "weight": 0.5,
+    "value": 1456,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 80,
+        "effect_label": "Fortify Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 50,
+        "magnitude_max": 50
+      },
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      },
+      {
+        "effect": 82,
+        "effect_label": "Fortify Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 50,
+        "magnitude_max": 50
+      },
+      {
+        "effect": 77,
+        "effect_label": "Restore Fatigue",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 5,
+        "magnitude_max": 5
+      },
+      {
+        "effect": 117,
+        "effect_label": "Fortify Attack",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 30,
+        "magnitude_max": 30
+      },
+      {
+        "effect": 3,
+        "effect_label": "Shield",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 60,
+        "magnitude_min": 30,
+        "magnitude_max": 30
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_lovepotion_unique",
+    "scripted": false,
+    "weight": 1.5,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 10,
+        "magnitude_min": 8,
+        "magnitude_max": 8
+      },
+      {
+        "effect": 75,
+        "effect_label": "Restore Health",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 20,
+        "magnitude_max": 20
+      }
+    ]
+  },
+  {
+    "type": "ALCH",
+    "refId": "p_recall_s",
+    "scripted": false,
+    "weight": 1,
+    "value": 35,
+    "autocalc": 0,
+    "effects": [
+      {
+        "effect": 61,
+        "effect_label": "Recall",
+        "skill": -1,
+        "skill_label": null,
+        "attribute": -1,
+        "attribute_label": null,
+        "range": 0,
+        "range_label": "Self",
+        "area": 0,
+        "duration": 1,
+        "magnitude_min": 1,
+        "magnitude_max": 1
+      }
+    ]
+  }
+]
